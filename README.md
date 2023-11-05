@@ -7,4 +7,5 @@ Step 0: Clone the git repo and open it in vs code <br />
 Step 1: Pull up a new terminal and paste node -i inquirer qr-image <br />
 step 2: node init -y <br />
 step 3: node index.js <br /> 
-now just give your url and scan the image file and you got your custom qr code  
+Now you can open the qr_img1.png file it's your qr code (it will update if you attempt a new url) , you can share it or scan it to get to the url 
+
